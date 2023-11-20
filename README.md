@@ -2,7 +2,7 @@
        Hi, I'm Baris Yildirim 👋
 </h1>
 
-<h3 align="center">A passionate software developer from Germany 🇩🇪 </h3>
+<h3 align="center">A passionate software developer from Turkey 🇹🇷 </h3>
 
 <br/>
 
