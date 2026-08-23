@@ -1,23 +1,32 @@
-<h1 align="center">
-       Hi, I'm Baris Yildirim 👋
-</h1>
+# `BARIS YILDIRIM`
 
-<h3 align="center">A passionate software developer from Turkey 🇹🇷 </h3>
+### Full-Stack Developer · Linux Enthusiast · Builder
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Building+digital+things.;Full-Stack+Developer.;Turning+ideas+into+software.;Code.+Build.+Repeat." alt="Typing SVG" />
 
-<div align="center">
- 
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **Nestjs, Apache Cassandra, AWS ,IOT**
+---
 
-💬 Ask me about **Node.js, React, Redux, MongoDB... or anything **
- </div>
- 
-<div align="center"> 
-  <a href="https://linkedin.com/in/barisyildirimm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
- <hr/>
+### ⚡ `TECH STACK`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,prisma,docker,linux,git&perline=10" />
+</p>
+
+---
+
+### 🌑 `CURRENTLY`
+
+> Building **scalable web applications**,
+> working across **frontend · backend · infrastructure**
+> and turning complex ideas into simple software.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=888888&icon_color=8B0000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=888888" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <sub>⚔️ Build something worth remembering.</sub>
+</p>
